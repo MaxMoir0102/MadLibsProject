@@ -2,7 +2,7 @@
  * Name: Your name
  * Class: ICS3U
  * Date:Friday Sept 18
- * Project Name: Mad Libs
+ * Project Name: MadLibs
  * 
  * Project Description
  * You will read in multiple entries from the user and store the results in variables
@@ -14,7 +14,7 @@
  * In restaurants, you find many PLURALNOUN3 talking ADVERB2 into their ADJECTIVE2 phones as they eat their NOUN2. 
  * NUMBER1 percent of American PLURALNOUN4 place their NOUN3 calls from their cars as they are VERB_ING_2 to and from their home, office, or NOUN4. 
  * Walking and talking are now the “in” NOUN5 to do. 
- * Over NUMBER2 percent of Americans walk our ADJECTIVE3 streets with a handheld PLURANOUN5 pressed against their BODYPART2.
+ * Over NUMBER2 percent of Americans walk our ADJECTIVE3 streets with a handheld PLURALNOUN5 pressed against their BODYPART2.
  * 
  * Ask for the capitalized words in the input. Print out the full story in the output.
  * See https://www.thewordfinder.com/wordlibs/story/41/ for an example.
