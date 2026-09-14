@@ -17,6 +17,7 @@
  * Over NUMBER2 percent of Americans walk our ADJECTIVE3 streets with a handheld PLURANOUN5 pressed against their BODYPART2.
  * 
  * Ask for the capitalized words in the input. Print out the full story in the output.
+ * See https://www.thewordfinder.com/wordlibs/story/41/ for an example.
  ********************************/
 import java.util.Scanner;
 public class Main {
