@@ -1,5 +1,5 @@
 /*******************************
- * Name: Your name
+ * Name: Max
  * Class: ICS3U
  * Date:Friday Sept 18
  * Project Name: MadLibs
@@ -25,7 +25,27 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		// YOUR CODE GOES HERE!!!!
-		
+		System.out.println("Give me a noun thats a food");
+		String Noun = in.nextLine();
+		System.out.println("Give me a number 0-100");
+		String Num = in.nextLine();
+		System.out.println("Give me a food");
+		String Food = in.nextLine();
+		System.out.println("Give me another number");
+		String Num2 = in.nextLine();
+		System.out.println("Give me another food");
+		String Food2 = in.nextLine();
+		System.out.println("Give me an adjective");
+		String Adj = in.nextLine();
+		System.out.println("Give me a violent verb ending with ING");
+		String Verb = in.nextLine();
+		System.out.println("Give me another verb (no ING)");
+		String Verb2 = in.nextLine();
+		System.out.println("Give me a past tense verb that deals with leaving");
+		String Verb3 = in.nextLine();
+		System.out.println("Give me a final number");
+		String Num3 = in.nextLine();
+		System.out.println("I was walking to the restaurant when I saw the new " +Noun+ " info plaque, it read; Did you know that " +Num+ "% of Canadians are upset about the price of this food? When I got into the restaurant I ordered " +Food+ " the waiter brought me " +Num2+  " of them! Before I left I ended up eating some " +Food2+ " When I left I saw a " +Adj+ " person " +Verb+ " another person. I decided to " +Verb2+ ". After this I went home where I " +Verb3+ " for " +Num3+ " hours.");
 		
 		
 		
